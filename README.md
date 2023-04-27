@@ -1,4 +1,3 @@
-![Curriculum 2023](https://user-images.githubusercontent.com/95633668/234836693-32a2c1ea-bcd1-499f-9827-a423e6e9f113.png)
 
 
 <!--
