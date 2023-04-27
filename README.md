@@ -1,4 +1,5 @@
-![Curriculum 2023](https://user-images.githubusercontent.com/95633668/234836484-d4c989db-2d4c-49af-889a-4316a341840e.png)
+![Curriculum 2023](https://user-images.githubusercontent.com/95633668/234836693-32a2c1ea-bcd1-499f-9827-a423e6e9f113.png)
+
 
 <!--
 **CCantale/CCantale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
