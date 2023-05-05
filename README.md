@@ -6,7 +6,7 @@ Languages: it(N) en(C2) fr(B2) es(B2) ch(B1) de(B1) ru(A1)
 
 Vimthusiast and very much into making videogames.
 
-I've made a fun app to make and navigate 3D maps. It's called **Ray**. Look how cute its mascotte is!
+I've recently made a fun app to make and navigate 3D maps. It's called **Ray**. Look how cute its mascotte is!
 
 
 ![Ray](https://user-images.githubusercontent.com/95633668/236498035-9b54042d-8655-4062-92b1-1ce7e4a4c29c.png)
