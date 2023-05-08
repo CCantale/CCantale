@@ -2,7 +2,7 @@ Born in 1993, student at Rome's **42**
 
 Master's degree in philosophy
 
-Languages: 🇮🇹(N) 🇺🇸(C2) 🇫🇷(B2) 🇪🇸(B2) 🇨🇳(B1) 🇩🇪(B1) 🇷🇺(A1)
+Languages:  🇮🇹 (N) 🇺🇸 (C2) 🇫🇷 (B2) 🇪🇸 (B2) 🇨🇳 (B2) 🇩🇪 (B1) 🇷🇺 (A2)
 
 Vimthusiast and very much into making videogames.
 
