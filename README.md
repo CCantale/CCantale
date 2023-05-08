@@ -6,7 +6,7 @@ Languages:  🇮🇹 (N) 🇺🇸 (C2) 🇫🇷 (B2) 🇪🇸 (B2) 🇨🇳 (B1)
 
 Vimthusiast and very much into making videogames.
 
-Can code in C and C++. Only those 2, but I do it so well your brain's gonna segfault!
+Can code in C and C++. Only those 2, but I'm so good with them your brain's gonna segfault!
 
 I've recently made a fun C++ app to make and navigate 3D maps. It's called **Ray**. Look how cute its mascotte is!
 
