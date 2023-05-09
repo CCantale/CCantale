@@ -6,7 +6,7 @@ Languages:  it(N) en(C2) fr(B2) es(B2) ch(B1) de(B1) ru(A2)
 
 Vimthusiast and very much into making videogames.
 
-Can code in C and C++. Only those 2, but so good with them your brain's gonna segfault!
+Can code in C and C++.
 
 I've recently made a fun C++ app to make and navigate 3D maps. It's called **Ray**. Look how cute its mascotte is!
 
