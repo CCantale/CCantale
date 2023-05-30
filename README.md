@@ -2,7 +2,7 @@ Born in 1993, student at Rome's **42**
 
 Master's degree in philosophy
 
-Languages:  it(N) en(C2) fr(B2) es(B2) ch(B1) de(B1) ru(A2)
+Languages:  it(N) en(C2) fr(B2) es(B2) ch(B1) de(B1) ru(A1)
 
 Vimthusiast and very much into making videogames.
 
