@@ -6,7 +6,7 @@ Languages:  it(N) en(C2) fr(B2) es(B2) ch(B1) de(B1) ru(A1)
 
 Vimthusiast and very much into making videogames.
 
-Can code in C and C++.
+Programming languages: C, C++, Lua, GDScript.
 
 I've recently made a fun C++ app to make and navigate 3D maps. It's called **Ray**. Look how cute its mascotte is!
 
